@@ -19,7 +19,7 @@
 - 后端
   - [EmilyYoung9](https://github.com/orgs/ServiceComputing-Project/people/EmilyYoung9) 杨玲（18342115）:[项目小结](https://shimo.im/docs/vTYDgPWXqX8QJPKy)
   - [Annecle](https://github.com/orgs/ServiceComputing-Project/people/Annecle)  周圆（18342143）：[项目小结](https://shimo.im/docs/JQW8QhdtX9GCdDxQ/)
-  - [beikenken](https://github.com/orgs/ServiceComputing-Project/people/beikenken) 张又方（）：[项目小结](https://blog.csdn.net/weixin_43227340/article/details/111558288)
+  - [beikenken](https://github.com/orgs/ServiceComputing-Project/people/beikenken) 张又方（18342131）：[项目小结](https://blog.csdn.net/weixin_43227340/article/details/111558288)
   - [utaZ ](https://github.com/orgs/ServiceComputing-Project/people/utaZ) 邹文睿（18342146）：[项目文档](https://blog.csdn.net/weixin_45683170/article/details/111563379)
 
 
@@ -69,13 +69,13 @@ npm run dev
 
 在本次实验中我们采用 REST v3 风格，设计了 6个API 服务，并使用 swagger-editor 来进行对API文档的编写
 
-1. ### user
+### 1. user
 
 ```yaml
 "SignIn":"/signin/{username:password}"
 ```
 
-2. ### article
+### 2. article
 
 ```yaml
 "GetArticles":"/user/articles",
@@ -83,12 +83,50 @@ npm run dev
 "DeleteArticleByID":"/user/article/{id}"
 ```
 
-3. ### comment
+### 3. comment
 
 ```yaml
 "GetCommentsOfArticle":"/user/article/{id}/comments",
 "CreateComment":"/user/article/{id}/comment
 ```
+
+
+
+## 运行结果
+
+整个实验前后端耦合后的最终结果显示如下：
+
+### 1.首页        
+
+![img](https://uploader.shimo.im/f/BCseLre0sllVf8Sw.png!thumbnail)      
+
+### 2.登陆界面       
+
+![img](https://uploader.shimo.im/f/HBJeBKbQgIMCpgha.png!thumbnail)
+
+### 3.登陆后进入个人博客列表
+
+由右下角可以看出其实现了分页功能        ![img](https://uploader.shimo.im/f/RUNefoEfmBwmou9K.png!thumbnail)       
+
+### 4.删除文章        
+
+![img](https://uploader.shimo.im/f/BZ6M6DMtqQMawUQZ.png!thumbnail)
+
+### 5.删除文章结果
+
+可以发现上一个图中的最后一条博客已无        ![img](https://uploader.shimo.im/f/pbhQPeeoCMX1QB9h.png!thumbnail)
+
+### 6.点进文章查看博文内容        
+
+![img](https://uploader.shimo.im/f/dgfNJXBXC7PGkmuu.png!thumbnail)       
+
+### 7.查看博文最底部评论部分       
+
+![img](https://uploader.shimo.im/f/WOzKTo4mEyUARn0t.png!thumbnail)       
+
+### 8.发表一条新的评论        ![img](https://uploader.shimo.im/f/n1b1yzSfM1zPHMdp.png!thumbnail)
+
+可以看出评论正常添加        ![img](https://uploader.shimo.im/f/yZjvY25exak4TNPt.png!thumbnail)      
 
 
 
