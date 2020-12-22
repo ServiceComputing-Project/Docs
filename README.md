@@ -14,7 +14,7 @@
 
 - 前端
   - [zxy0616](https://github.com/orgs/ServiceComputing-Project/people/zxy0616) 张轩语（18342129）：[项目小结](https://blog.csdn.net/qq_43233275/article/details/111556495)
-  - [zhangxy0](https://github.com/orgs/ServiceComputing-Project/people/zhangxy0) 张欣悦（18342128）：[项目小结](https://blog.csdn.net/weixin_43985359/article/details/111567422)
+  - [zhangxy0](https://github.com/orgs/ServiceComputing-Project/people/zhangxy0) 张心悦（18342128）：[项目小结](https://blog.csdn.net/weixin_43985359/article/details/111567422)
 
 - 后端
   - [EmilyYoung9](https://github.com/orgs/ServiceComputing-Project/people/EmilyYoung9) 杨玲（18342115）:[项目小结](https://shimo.im/docs/vTYDgPWXqX8QJPKy)
