@@ -19,7 +19,7 @@
 - 后端
   - [EmilyYoung9](https://github.com/orgs/ServiceComputing-Project/people/EmilyYoung9) 杨玲（18342115）:[项目小结](https://shimo.im/docs/vTYDgPWXqX8QJPKy)
   - [Annecle](https://github.com/orgs/ServiceComputing-Project/people/Annecle)  周圆（18342143）：[项目小结](https://shimo.im/docs/JQW8QhdtX9GCdDxQ/)
-  - [beikenken](https://github.com/orgs/ServiceComputing-Project/people/beikenken) 张又方（）：[项目小结](https://blog.csdn.net/weixin_43227340/article/details/111558288)
+  - [beikenken](https://github.com/orgs/ServiceComputing-Project/people/beikenken) 张又方（18342131）：[项目小结](https://blog.csdn.net/weixin_43227340/article/details/111558288)
   - [utaZ ](https://github.com/orgs/ServiceComputing-Project/people/utaZ) 邹文睿（18342146）：[项目文档](https://blog.csdn.net/weixin_45683170/article/details/111563379)
 
 
