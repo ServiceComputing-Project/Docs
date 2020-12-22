@@ -14,7 +14,7 @@
 
 - 前端
   - [zxy0616](https://github.com/orgs/ServiceComputing-Project/people/zxy0616) 张轩语（18342129）：[项目小结](https://blog.csdn.net/qq_43233275/article/details/111556495)
-  - [zhangxy0](https://github.com/orgs/ServiceComputing-Project/people/zhangxy0) 张欣悦（18342128）：[项目小结](https://blog.csdn.net/weixin_43985359/article/details/111567422)
+  - [zhangxy0](https://github.com/orgs/ServiceComputing-Project/people/zhangxy0) 张心悦（18342128）：[项目小结](https://blog.csdn.net/weixin_43985359/article/details/111567422)
 
 - 后端
   - [EmilyYoung9](https://github.com/orgs/ServiceComputing-Project/people/EmilyYoung9) 杨玲（18342115）:[项目小结](https://shimo.im/docs/vTYDgPWXqX8QJPKy)
@@ -96,37 +96,45 @@ npm run dev
 
 整个实验前后端耦合后的最终结果显示如下：
 
-### 1.首页        
+### 1.首页     
 
-![img](https://uploader.shimo.im/f/BCseLre0sllVf8Sw.png!thumbnail)      
+![1](image/1.png)
 
 ### 2.登陆界面       
 
-![img](https://uploader.shimo.im/f/HBJeBKbQgIMCpgha.png!thumbnail)
+![2](image/2.png)
 
 ### 3.登陆后进入个人博客列表
 
-由右下角可以看出其实现了分页功能        ![img](https://uploader.shimo.im/f/RUNefoEfmBwmou9K.png!thumbnail)       
+由右下角可以看出其实现了分页功能        
+
+![3](image/3.png)       
 
 ### 4.删除文章        
 
-![img](https://uploader.shimo.im/f/BZ6M6DMtqQMawUQZ.png!thumbnail)
+![4](image/4.png)
 
 ### 5.删除文章结果
 
-可以发现上一个图中的最后一条博客已无        ![img](https://uploader.shimo.im/f/pbhQPeeoCMX1QB9h.png!thumbnail)
+可以发现上一个图中的最后一条博客已无       
+
+![5](image/5.png)
 
 ### 6.点进文章查看博文内容        
 
-![img](https://uploader.shimo.im/f/dgfNJXBXC7PGkmuu.png!thumbnail)       
+![6](image/6.png)       
 
 ### 7.查看博文最底部评论部分       
 
-![img](https://uploader.shimo.im/f/WOzKTo4mEyUARn0t.png!thumbnail)       
+![7](image/7.png)       
 
-### 8.发表一条新的评论        ![img](https://uploader.shimo.im/f/n1b1yzSfM1zPHMdp.png!thumbnail)
+### 8.发表一条新的评论       
 
-可以看出评论正常添加        ![img](https://uploader.shimo.im/f/yZjvY25exak4TNPt.png!thumbnail)      
+![8-1](image/8-1.jpg)
+
+可以看出评论正常添加       
+
+ ![8-2](image/8-2.png)      
 
 
 
