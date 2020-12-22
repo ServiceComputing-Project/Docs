@@ -98,7 +98,7 @@ npm run dev
 
 ### 1.首页     
 
-[![rsszO1.png](https://s3.ax1x.com/2020/12/23/rsszO1.png)](https://imgchr.com/i/rsszO1)
+![1](image/1.png)
 
 ### 2.登陆界面       
 
